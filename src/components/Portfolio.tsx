@@ -1,23 +1,23 @@
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    category: 'Web Development',
-    description: 'High-performance online store with real-time inventory and payment integration',
-    bgImage: 'https://images.pexels.com/photos/5632399/pexels-photo-5632399.jpeg?auto=compress&cs=tinysrgb&w=800',
+    title: 'Shopbix',
+    category: 'Item Sell & Business Listing',
+    description: 'Item selling and business listing platform built to help users buy, sell, and discover local businesses.',
+    bgImage: 'https://shopbix-admin.happyhomez.in/storage/settings/688dc2aa9c5f62.926327791754120874.svg',
     color: 'from-purple-500 to-purple-600'
   },
   {
-    title: 'Cloud Dashboard',
-    category: 'Cloud Solutions',
-    description: 'Centralized cloud infrastructure management with real-time analytics',
-    bgImage: 'https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=800',
+    title: 'HappyHomez.in',
+    category: 'Properties Platform',
+    description: 'Properties platform focused on helping users explore and connect with the right property opportunities.',
+    bgImage: 'https://happyhomez.in/images/new-logo.png',
     color: 'from-orange-500 to-orange-600'
   },
   {
-    title: 'Mobile Banking App',
-    category: 'Mobile Development',
-    description: 'Secure mobile banking solution with seamless transaction capabilities',
-    bgImage: 'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=800',
+    title: 'Bricksgenie',
+    category: 'Real Estate Agency',
+    description: 'Best Property Dealers and real estate agency services in Chandigarh for trusted property guidance.',
+    bgImage: 'https://bricksgenie.com/assets/img/65127f2a23da3.png',
     color: 'from-purple-500 to-purple-600'
   }
 ];

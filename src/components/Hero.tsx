@@ -26,7 +26,7 @@ export default function Hero() {
             </div>
 
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-              Smart IT Solutions For{' '}
+              Ramdee Solutions For{' '}
               <span className="bg-gradient-to-r from-purple-600 to-orange-500 bg-clip-text text-transparent">
                 Growing Businesses
               </span>
@@ -73,7 +73,7 @@ export default function Hero() {
               <div className="relative bg-white rounded-3xl shadow-2xl overflow-hidden border border-gray-100">
                 <div className="relative aspect-[4/3] overflow-hidden bg-gray-100">
                   <img
-                    src="https://images.pexels.com/photos/3852589/pexels-photo-3852589.jpeg?auto=compress&cs=tinysrgb&w=800"
+                    src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=800"
                     alt="Team collaborating on IT solutions"
                     className="w-full h-full object-cover"
                   />
